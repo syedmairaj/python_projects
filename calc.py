@@ -17,4 +17,4 @@ elif func == '/':
     print(inp_1/inp_2)
     
 else:
-    print("Please input a number")
+    print("Please input a numbers")
